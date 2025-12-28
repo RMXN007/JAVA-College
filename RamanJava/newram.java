@@ -1,4 +1,4 @@
-package GG.RamanJava;
+package RamanJava;
 
 public interface function {
     public int a = 5;

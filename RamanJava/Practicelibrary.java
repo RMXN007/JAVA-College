@@ -1,4 +1,4 @@
-package GG.RamanJava;
+package RamanJava;
 
 class Library{
     String[] Book;

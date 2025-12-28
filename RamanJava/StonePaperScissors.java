@@ -1,4 +1,4 @@
-package GG.RamanJava;
+package RamanJava;
 
 
 import java.util.Random;
